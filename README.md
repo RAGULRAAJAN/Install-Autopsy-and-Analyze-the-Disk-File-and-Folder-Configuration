@@ -6,8 +6,8 @@ To install Autopsy software on windows operating system and analyse the file and
 ## EQUIPMENT REQUIRED:
 ● Hardware: Personal Computer (PC)
 ```
-Register Number:212223100009
-Name: Gowtham V
+Register Number:212223100043
+Name: RAGUL RAAJAN T
 ```
 ## DESIGN STEPS:
 ### Step 1:
